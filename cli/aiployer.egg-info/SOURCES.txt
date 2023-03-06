@@ -1,0 +1,8 @@
+README.md
+setup.py
+aiployer.egg-info/PKG-INFO
+aiployer.egg-info/SOURCES.txt
+aiployer.egg-info/dependency_links.txt
+aiployer.egg-info/entry_points.txt
+aiployer.egg-info/requires.txt
+aiployer.egg-info/top_level.txt
